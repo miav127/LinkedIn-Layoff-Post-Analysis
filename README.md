@@ -40,6 +40,9 @@ The dataset consists of 732 observations (posts), and 20 variables of profile de
 - Sentiment Analysis: Determine the emotional tone expressed in a post using a set of predefined rules to identify positive or negative tones. 
 - Topic Classification: Group posts into topics by collecting frequent words, evaluated using beta (the probability that a given term appears in a particular topic) 
 
+### Summary Graphs ###
+
+
 ### Conclusion ###
 
 - Meta layoffs affect thousands of employees regardless of demographics and experience years.
